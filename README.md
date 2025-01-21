@@ -15,7 +15,7 @@
 日期 | 題號 | 題目 | 解答 | 詳解 |
 |:--------:|:--------:|:-------:|:--------:|:--------:|
 | 2024/10 | 1 | [裝飲料](https://zerojudge.tw/ShowProblem?problemid=o711) | [github page](/202410/1.cpp) | N/A | 
-| 2024/10 | 2 | [蒐集寶石](https://zerojudge.tw/ShowProblem?problemid=o712) | N/A | N/A | 
+| 2024/10 | 2 | [蒐集寶石](https://zerojudge.tw/ShowProblem?problemid=o712) | [github page](/202410/2.cpp) | N/A | 
 | 2024/10 | 3 | [連鎖反應](https://zerojudge.tw/ShowProblem?problemid=o713) | N/A | N/A | 
 | 2024/10 | 4 | [搭到終點](https://zerojudge.tw/ShowProblem?problemid=o714) | N/A | N/A | 
 | ===== | === | ===== | ===== | ===== |
