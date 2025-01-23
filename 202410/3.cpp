@@ -35,7 +35,7 @@ int bfs(int start_range)
 				
 				next_power = power - 1;
 				
-				if (next_power > visited[next_y][next_x] - 100 && a[next_y][next_x] >= 0) {  
+				if (next_power > visited[next_y][next_x] && a[next_y][next_x] >= 0) {  
 				//若新給予的能量比其他炸彈給予的能量大且不是石頭、邊界或初始炸彈 
 					if (visited[next_y][next_x] == -1) {  //若是先前尚未受波及
 						affected++;
@@ -45,7 +45,7 @@ int bfs(int start_range)
 					}
 						
 					spread.push({next_y, next_x, next_power});
-					visited[next_y][next_x] = next_power + 100;  //儲存該位置剩餘能量 + 100 (避免 point.t 恰好是 0) 
+					visited[next_y][next_x] = next_power;  //儲存該位置剩餘能量 + 100 (避免 point.t 恰好是 0) 
 				}
 			}
 		} 
