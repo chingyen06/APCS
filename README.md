@@ -17,7 +17,7 @@
 | 2024/10 | 1 | [裝飲料](https://zerojudge.tw/ShowProblem?problemid=o711) | [github page](/202410/1.cpp) | N/A | 
 | 2024/10 | 2 | [蒐集寶石](https://zerojudge.tw/ShowProblem?problemid=o712) | [github page](/202410/2.cpp) | N/A | 
 | 2024/10 | 3 | [連鎖反應](https://zerojudge.tw/ShowProblem?problemid=o713) | [github page](/202410/3.cpp) | N/A | 
-| 2024/10 | 4 | [搭到終點](https://zerojudge.tw/ShowProblem?problemid=o714) | N/A | N/A | 
+| 2024/10 | 4 | [搭到終點](https://zerojudge.tw/ShowProblem?problemid=o714) | [github page](/202410/4.cpp) | N/A | 
 | ===== | === | ===== | ===== | ===== |
 | 2024/06 | 1 | [特技表演](https://zerojudge.tw/ShowProblem?problemid=o076) | N/A | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/rJKdh43rR#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E7%89%B9%E6%8A%80%E8%A1%A8%E6%BC%94-ZeroJudge-o076) | 
 | 2024/06 | 2 | [電子畫布](https://zerojudge.tw/ShowProblem?problemid=o077) | N/A | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/rJKdh43rR#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E9%9B%BB%E5%AD%90%E7%95%AB%E5%B8%83-ZeroJudge-o077) | 
