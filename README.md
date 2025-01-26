@@ -14,10 +14,10 @@
 ### 由新至舊
 日期 | 題號 | 題目 | 解答 | 詳解 |
 |:--------:|:--------:|:-------:|:--------:|:--------:|
-| 2024/10 | 1 | [裝飲料](https://zerojudge.tw/ShowProblem?problemid=o711) | [github page](/202410/1.cpp) | N/A | 
-| 2024/10 | 2 | [蒐集寶石](https://zerojudge.tw/ShowProblem?problemid=o712) | [github page](/202410/2.cpp) | N/A | 
-| 2024/10 | 3 | [連鎖反應](https://zerojudge.tw/ShowProblem?problemid=o713) | [github page](/202410/3.cpp) | N/A | 
-| 2024/10 | 4 | [搭到終點](https://zerojudge.tw/ShowProblem?problemid=o714) | [github page](/202410/4.cpp) | N/A | 
+| 2024/10 | 1 | [裝飲料](https://zerojudge.tw/ShowProblem?problemid=o711) | [github page](/202410/1.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Hyb9u_jwyl#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E8%A3%9D%E9%A3%B2%E6%96%99-ZeroJudge-o711) | 
+| 2024/10 | 2 | [蒐集寶石](https://zerojudge.tw/ShowProblem?problemid=o712) | [github page](/202410/2.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Hyb9u_jwyl#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E8%92%90%E9%9B%86%E5%AF%B6%E7%9F%B3-ZeroJudge-o712) | 
+| 2024/10 | 3 | [連鎖反應](https://zerojudge.tw/ShowProblem?problemid=o713) | [github page](/202410/3.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Hyb9u_jwyl#%E7%AC%AC%E4%B8%89%E9%A1%8C-%E9%80%A3%E9%8E%96%E5%8F%8D%E6%87%89-ZeroJudge-o713) | 
+| 2024/10 | 4 | [搭到終點](https://zerojudge.tw/ShowProblem?problemid=o714) | [github page](/202410/4.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Hyb9u_jwyl#%E7%AC%AC%E5%9B%9B%E9%A1%8C-%E6%90%AD%E5%88%B0%E7%B5%82%E9%BB%9E-ZeroJudge-o714) | 
 | ===== | === | ===== | ===== | ===== |
 | 2024/06 | 1 | [特技表演](https://zerojudge.tw/ShowProblem?problemid=o076) | N/A | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/rJKdh43rR#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E7%89%B9%E6%8A%80%E8%A1%A8%E6%BC%94-ZeroJudge-o076) | 
 | 2024/06 | 2 | [電子畫布](https://zerojudge.tw/ShowProblem?problemid=o077) | N/A | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/rJKdh43rR#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E9%9B%BB%E5%AD%90%E7%95%AB%E5%B8%83-ZeroJudge-o077) | 
