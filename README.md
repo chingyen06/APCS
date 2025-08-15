@@ -14,6 +14,16 @@
 ### 由新至舊
 日期 | 題號 | 題目 | 解答 | 詳解 |
 |:--------:|:--------:|:-------:|:--------:|:--------:|
+| 2025/06 | 1 | [小心陷阱](https://zerojudge.tw/ShowProblem?problemid=q836) | [github page](/202506/1.cpp) | N/A | 
+| 2025/06 | 2 | [轉盤得分](https://zerojudge.tw/ShowProblem?problemid=q837) | N/A | N/A | 
+| 2025/06 | 3 | [貪心闖關](https://zerojudge.tw/ShowProblem?problemid=q838) | N/A | N/A | 
+| 2025/06 | 4 | [分組遊戲](https://zerojudge.tw/ShowProblem?problemid=q839) | N/A | N/A | 
+| ===== | === | ===== | ===== | ===== |
+| 2025/01 | 1 | [等紅綠燈](https://zerojudge.tw/ShowProblem?problemid=q181) | [github page](/202501/1.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/B16Ic0Sdeg#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E7%AD%89%E7%B4%85%E7%B6%A0%E7%87%88-ZeroJudge-q181) | 
+| 2025/01 | 2 | [字串操作](https://zerojudge.tw/ShowProblem?problemid=q182) | [github page](/202501/2.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/B16Ic0Sdeg#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E5%AD%97%E4%B8%B2%E6%93%8D%E4%BD%9C-ZeroJudge-q182) | 
+| 2025/01 | 3 | [重組問題](https://zerojudge.tw/ShowProblem?problemid=q183) | N/A | N/A | 
+| 2025/01 | 4 | [分組開會](https://zerojudge.tw/ShowProblem?problemid=q184) | [github page](/202501/4.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/B16Ic0Sdeg#%E7%AC%AC%E5%9B%9B%E9%A1%8C-%E5%88%86%E7%B5%84%E9%96%8B%E6%9C%83-ZeroJudge-q184) | 
+| ===== | === | ===== | ===== | ===== |
 | 2024/10 | 1 | [裝飲料](https://zerojudge.tw/ShowProblem?problemid=o711) | [github page](/202410/1.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Hyb9u_jwyl#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E8%A3%9D%E9%A3%B2%E6%96%99-ZeroJudge-o711) | 
 | 2024/10 | 2 | [蒐集寶石](https://zerojudge.tw/ShowProblem?problemid=o712) | [github page](/202410/2.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Hyb9u_jwyl#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E8%92%90%E9%9B%86%E5%AF%B6%E7%9F%B3-ZeroJudge-o712) | 
 | 2024/10 | 3 | [連鎖反應](https://zerojudge.tw/ShowProblem?problemid=o713) | [github page](/202410/3.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/Hyb9u_jwyl#%E7%AC%AC%E4%B8%89%E9%A1%8C-%E9%80%A3%E9%8E%96%E5%8F%8D%E6%87%89-ZeroJudge-o713) | 
