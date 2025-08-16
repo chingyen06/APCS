@@ -15,7 +15,7 @@
 日期 | 題號 | 題目 | 解答 | 詳解 |
 |:--------:|:--------:|:-------:|:--------:|:--------:|
 | 2025/06 | 1 | [小心陷阱](https://zerojudge.tw/ShowProblem?problemid=q836) | [github page](/202506/1.cpp) | N/A | 
-| 2025/06 | 2 | [轉盤得分](https://zerojudge.tw/ShowProblem?problemid=q837) | N/A | N/A | 
+| 2025/06 | 2 | [轉盤得分](https://zerojudge.tw/ShowProblem?problemid=q837) | [github page](/202506/2.cpp) | N/A | 
 | 2025/06 | 3 | [貪心闖關](https://zerojudge.tw/ShowProblem?problemid=q838) | N/A | N/A | 
 | 2025/06 | 4 | [分組遊戲](https://zerojudge.tw/ShowProblem?problemid=q839) | N/A | N/A | 
 | ===== | === | ===== | ===== | ===== |
