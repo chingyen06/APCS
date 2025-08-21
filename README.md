@@ -14,10 +14,10 @@
 ### 由新至舊
 日期 | 題號 | 題目 | 解答 | 詳解 |
 |:--------:|:--------:|:-------:|:--------:|:--------:|
-| 2025/06 | 1 | [小心陷阱](https://zerojudge.tw/ShowProblem?problemid=q836) | [github page](/202506/1.cpp) | N/A | 
-| 2025/06 | 2 | [轉盤得分](https://zerojudge.tw/ShowProblem?problemid=q837) | [github page](/202506/2.cpp) | N/A | 
-| 2025/06 | 3 | [貪心闖關](https://zerojudge.tw/ShowProblem?problemid=q838) | N/A | N/A | 
-| 2025/06 | 4 | [分組遊戲](https://zerojudge.tw/ShowProblem?problemid=q839) | N/A | N/A | 
+| 2025/06 | 1 | [小心陷阱](https://zerojudge.tw/ShowProblem?problemid=q836) | [github page](/202506/1.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeE0Ihull#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E5%B0%8F%E5%BF%83%E9%99%B7%E9%98%B1-ZeroJudge-q836) | 
+| 2025/06 | 2 | [轉盤得分](https://zerojudge.tw/ShowProblem?problemid=q837) | [github page](/202506/2.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeE0Ihull#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E8%BD%89%E7%9B%A4%E5%BE%97%E5%88%86-ZeroJudge-q837) | 
+| 2025/06 | 3 | [貪心闖關](https://zerojudge.tw/ShowProblem?problemid=q838) | [github page](/202506/3.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeE0Ihull#%E7%AC%AC%E4%B8%89%E9%A1%8C-%E8%B2%AA%E5%BF%83%E9%97%96%E9%97%9C-ZeroJudge-q838) | 
+| 2025/06 | 4 | [分組遊戲](https://zerojudge.tw/ShowProblem?problemid=q839) | [github page](/202506/4.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeE0Ihull#%E7%AC%AC%E5%9B%9B%E9%A1%8C-%E5%88%86%E7%B5%84%E9%81%8A%E6%88%B2-ZeroJudge-q839) | 
 | ===== | === | ===== | ===== | ===== |
 | 2025/01 | 1 | [等紅綠燈](https://zerojudge.tw/ShowProblem?problemid=q181) | [github page](/202501/1.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/B16Ic0Sdeg#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E7%AD%89%E7%B4%85%E7%B6%A0%E7%87%88-ZeroJudge-q181) | 
 | 2025/01 | 2 | [字串操作](https://zerojudge.tw/ShowProblem?problemid=q182) | [github page](/202501/2.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/B16Ic0Sdeg#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E5%AD%97%E4%B8%B2%E6%93%8D%E4%BD%9C-ZeroJudge-q182) | 
