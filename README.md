@@ -15,7 +15,8 @@
 日期 | 題號 | 題目 | 解答 | 詳解 |
 |:--------:|:--------:|:-------:|:--------:|:--------:|
 | 2025/06 | 1 | [彗星撞擊](https://zerojudge.tw/ShowProblem?problemid=r488) | [github page](/202510/1.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/09/apcs/apcs202510/#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E5%BD%97%E6%98%9F%E6%92%9E%E6%93%8A-ZeroJudge-r488) | 
-| 2025/06 | 2 | [航空拍照圖](https://zerojudge.tw/ShowProblem?problemid=r489) | [github page](/202510/1.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/09/apcs/apcs202510/#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E8%88%AA%E7%A9%BA%E6%8B%8D%E7%85%A7%E5%9C%96-ZeroJudge-r489) | 
+| 2025/06 | 2 | [航空拍照圖](https://zerojudge.tw/ShowProblem?problemid=r489) | [github page](/202510/2.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/09/apcs/apcs202510/#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E8%88%AA%E7%A9%BA%E6%8B%8D%E7%85%A7%E5%9C%96-ZeroJudge-r489) | 
+| 2025/06 | 3 | [商品包裝地](https://zerojudge.tw/ShowProblem?problemid=r490) | [github page](/202510/3.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/09/apcs/apcs202510/#%E7%AC%AC%E4%B8%89%E9%A1%8C-%E5%95%86%E5%93%81%E5%8C%85%E8%A3%9D%E5%9C%B0-ZeroJudge-r490) | 
 | ===== | === | ===== | ===== | ===== |
 | 2025/06 | 1 | [小心陷阱](https://zerojudge.tw/ShowProblem?problemid=q836) | [github page](/202506/1.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeE0Ihull#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E5%B0%8F%E5%BF%83%E9%99%B7%E9%98%B1-ZeroJudge-q836) | 
 | 2025/06 | 2 | [轉盤得分](https://zerojudge.tw/ShowProblem?problemid=q837) | [github page](/202506/2.cpp) | [Ching Yan HackMD筆記](https://hackmd.io/@chingyan/SyeE0Ihull#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E8%BD%89%E7%9B%A4%E5%BE%97%E5%88%86-ZeroJudge-q837) | 
