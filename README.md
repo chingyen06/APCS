@@ -14,9 +14,9 @@
 ### 由新至舊
 日期 | 題號 | 題目 | 解答 | 詳解 |
 |:--------:|:--------:|:-------:|:--------:|:--------:|
-| 2025/10 | 1 | [字母配對](https://zerojudge.tw/ShowProblem?problemid=r626) | [github page](/202511/1.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/11/apcs/apcs202511/#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E5%AD%97%E6%AF%8D%E9%85%8D%E5%B0%8D-ZeroJudge-r626) | 
-| 2025/10 | 2 | [列印工廠](https://zerojudge.tw/ShowProblem?problemid=r627) | [github page](/202511/2.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/11/apcs/apcs202511/#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E5%88%97%E5%8D%B0%E5%B7%A5%E5%BB%A0-ZeroJudge-r627) | 
-| 2025/10 | 3 | [翻來覆去](https://zerojudge.tw/ShowProblem?problemid=r628) | [github page](/202511/3.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/11/apcs/apcs202511/#%E7%AC%AC%E4%B8%89%E9%A1%8C-%E7%BF%BB%E4%BE%86%E8%A6%86%E5%8E%BB-ZeroJudge-r628) | 
+| 2025/11 | 1 | [字母配對](https://zerojudge.tw/ShowProblem?problemid=r626) | [github page](/202511/1.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/11/apcs/apcs202511/#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E5%AD%97%E6%AF%8D%E9%85%8D%E5%B0%8D-ZeroJudge-r626) | 
+| 2025/11 | 2 | [列印工廠](https://zerojudge.tw/ShowProblem?problemid=r627) | [github page](/202511/2.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/11/apcs/apcs202511/#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E5%88%97%E5%8D%B0%E5%B7%A5%E5%BB%A0-ZeroJudge-r627) | 
+| 2025/11 | 3 | [翻來覆去](https://zerojudge.tw/ShowProblem?problemid=r628) | [github page](/202511/3.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/11/apcs/apcs202511/#%E7%AC%AC%E4%B8%89%E9%A1%8C-%E7%BF%BB%E4%BE%86%E8%A6%86%E5%8E%BB-ZeroJudge-r628) | 
 | ===== | === | ===== | ===== | ===== |
 | 2025/10 | 1 | [彗星撞擊](https://zerojudge.tw/ShowProblem?problemid=r488) | [github page](/202510/1.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/09/apcs/apcs202510/#%E7%AC%AC%E4%B8%80%E9%A1%8C-%E5%BD%97%E6%98%9F%E6%92%9E%E6%93%8A-ZeroJudge-r488) | 
 | 2025/10 | 2 | [航空拍照圖](https://zerojudge.tw/ShowProblem?problemid=r489) | [github page](/202510/2.cpp) | [靖諺的資訊學習筆記](https://www.tseng-school.com/2026/02/09/apcs/apcs202510/#%E7%AC%AC%E4%BA%8C%E9%A1%8C-%E8%88%AA%E7%A9%BA%E6%8B%8D%E7%85%A7%E5%9C%96-ZeroJudge-r489) | 
